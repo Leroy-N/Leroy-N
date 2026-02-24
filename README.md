@@ -10,8 +10,8 @@ Tools I can use: Ansys for FEA, Solidworks and Onshape for CAD, C and MATLAB for
 I can easily adapt to any software if need be.
 
 Fun Fact: 
-I am from Trinidad adn Tobago (Yes I can turn my dialect on and off)
-I love Slay the Spire.
+/n I am from Trinidad adn Tobago (Yes I can turn my dialect on and off)
+\n I love Slay the Spire.
 Jon Bellion is my favourite artist.
 
 Hobbies: Gym, Boxing, Cooking, Baking, Learning
