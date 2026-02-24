@@ -14,12 +14,7 @@ I am from Trinidad adn Tobago (Yes I can turn my dialect on and off)
 I love Slay the Spire.
 Jon Bellion is my favourite artist.
 
-Hobbies:
-Gym
-Boxing
-Cooking
-Baking
-Learning
+Hobbies: Gym, Boxing, Cooking, Baking, Learning
 <!--
 **Leroy-N/Leroy-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
